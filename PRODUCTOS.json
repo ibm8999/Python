@@ -1,0 +1,12 @@
+[
+    {
+        "NOMBRE_ARTICULO": "BALÓN",
+        "PRECIO": 15,
+        "SECCION": "DEPORTES"
+    },
+    {
+        "NOMBRE_ARTICULO": null,
+        "PRECIO": null,
+        "SECCION": null
+    }
+]
