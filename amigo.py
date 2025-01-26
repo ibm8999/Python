@@ -1,4 +1,4 @@
-#  calcula numero amigos
+#  calcula numero amigos (cambio desde la nube)
 import sys
 
 def amigos(num): 
